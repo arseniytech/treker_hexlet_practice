@@ -1,9 +1,9 @@
-** Веб-приложение для управления личными финансами **
+## Веб-приложение для управления личными финансами ##
 
-DOCX: [DOCX](https://1drv.ms/w/c/00287103fdd347d4/IQDITPcBTV3KR7MBsJGUp-jSAb78BlncYq_vN49sBHKF8vY?e=arbb5X)
+# DOCX: [DOCX](https://1drv.ms/w/c/00287103fdd347d4/IQDITPcBTV3KR7MBsJGUp-jSAb78BlncYq_vN49sBHKF8vY?e=arbb5X)
 
 
-use-case diagram:
+# use-case diagram:
 ![diagram](diagram/diagram.png)
 
 Скриншоты прототипа (макета):
