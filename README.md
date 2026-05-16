@@ -4,19 +4,22 @@ DOCX: [DOCX](https://1drv.ms/w/c/00287103fdd347d4/IQDITPcBTV3KR7MBsJGUp-jSAb78Bl
 
 
 use-case diagram:
-![Maket](diagram\diagram.png)
+![diagram](diagram/diagram.png)
 
 Скриншоты прототипа (макета):
-![Maket](imgFigma\figma.png)
-![Makeе1](imgFigma\figma2.png)
-![Maket2](imgFigma\figma3.png)
-![Maket3](imgFigma\figma4.png)
+![Figma1](imgFigma/figma.png)
+![Figma2](imgFigma/figma2.png)
+![Figma3](imgFigma/figma3.png)
+![Figma4](imgFigma/figma4.png)
+
 
 
 Скриншоты реализованных HTML-страниц:
-![Maket](imgBrowser\image.png)
-![Makeе1](imgBrowser\image2.png)
-![Maket2](imgBrowser\image3.png)
-![Maket3](imgBrowser\image4.png)
+![Browser1](imgBrowser/image.png)
+![Browser2](imgBrowser/image2.png)
+![Browser3](imgBrowser/image3.png)
+![Browser4](imgBrowser/image4.png)
+
+
 
 
