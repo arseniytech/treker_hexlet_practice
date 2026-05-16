@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Расходы</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="layout">
+    <div class="sidebar">
+      <div class="sidebarLogo">Трекер расходов</div>
+      <a href="index.html" class="navItem">Главная</a>
+      <a href="expenses.html" class="navItem">Расходы</a>
+      <a href="addExpense.html" class="navItem">Добавить</a>
+    </div>
+    <div class="main">
+      <div class="topbar">
+        <span>Расходы</span>
+      </div>
+      <div class="content">
+        <div class="card">
+          <div class="cardTitle">История расходов</div>
+          <table>
+            <thead>
+              <tr>
+                <th>Дата</th>
+                <th>Категория</th>
+                <th>Описание</th>
+                <th>Сумма</th>
+                <th></th>
+              </tr>
+            </thead>
+            <tbody id="expenseTable"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

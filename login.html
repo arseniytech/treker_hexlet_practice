@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Вход</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="loginWrap">
+    <div class="loginBox">
+      <div class="loginTitle">Вход</div>
+      <div class="field">
+        <label>Email</label>
+        <input type="email" id="email" placeholder="test@mail.ru">
+      </div>
+      <div class="field" style="margin-top:10px">
+        <label>Пароль</label>
+        <input type="password" id="password" placeholder="пароль">
+      </div>
+      <div class="error" id="error"></div>
+      <button class="btn" onclick="login()">Войти</button>
+    </div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

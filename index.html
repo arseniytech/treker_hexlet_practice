@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Дашборд</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="layout">
+    <div class="sidebar">
+      <div class="sidebarLogo">Трекер расходов</div>
+      <a href="index.html" class="navItem">Главная</a>
+      <a href="expenses.html" class="navItem">Расходы</a>
+      <a href="addExpense.html" class="navItem">Добавить</a>
+    </div>
+    <div class="main">
+      <div class="topbar">
+        <span>Дашборд</span>
+      </div>
+      <div class="content">
+        <div class="statsRow">
+          <div class="statCard">
+            <div class="statLabel">Всего потрачено</div>
+            <div class="statValue red" id="total">0 ₽</div>
+          </div>
+          <div class="statCard">
+            <div class="statLabel">Расходов</div>
+            <div class="statValue" id="count">0</div>
+          </div>
+          <div class="statCard">
+            <div class="statLabel">Топ категория</div>
+            <div class="statValue" id="topCategory">-</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
