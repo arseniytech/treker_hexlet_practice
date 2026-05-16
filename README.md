@@ -6,7 +6,7 @@
 ## use-case diagram:
 ![diagram](diagram/diagram.png)
 
-Скриншоты прототипа (макета):
+### Скриншоты прототипа (макета):
 ![Figma1](imgFigma/figma.png)
 ![Figma2](imgFigma/figma2.png)
 ![Figma3](imgFigma/figma3.png)
@@ -14,7 +14,7 @@
 
 
 
-Скриншоты реализованных HTML-страниц:
+### Скриншоты реализованных HTML-страниц:
 ![Browser1](imgBrowser/image.png)
 ![Browser2](imgBrowser/image2.png)
 ![Browser3](imgBrowser/image3.png)
