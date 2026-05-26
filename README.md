@@ -1,5 +1,8 @@
 # Веб-приложение для управления личными финансами #
 
+### Modules integr - https://github.com/arseniytech/treker_deneg_hexlet
+
+
 ## DOCX УП.2: [DOCX](https://1drv.ms/w/c/00287103fdd347d4/IQDITPcBTV3KR7MBsJGUp-jSAb78BlncYq_vN49sBHKF8vY?e=arbb5X)
 
 ## DOCX УП.11: [DOCX](https://1drv.ms/w/c/00287103fdd347d4/IQBHf4KB7VarQJHCESWdIl9aATohV7AYDAI3LxjE5kOSEMs?e=7kWRfZ)
